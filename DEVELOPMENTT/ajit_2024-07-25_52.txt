@@ -1,0 +1,18 @@
+-------------------------Receipt--------------------------
+Receipt ID : ajit_2024-07-25_52
+Customer  : ajit
+Phone number  : 98702
+Item ID   : 2
+Item name : Microphone Set
+Brand     : Audio Technica
+Quantity  : 2
+Days      : 10
+Price     : $756.0
+----------------------------------------------------------
+Items Returned   :False
+
+Remaining Amount : $ 666.0
+Total Amount     : $756.0
+---------------------------------------------------------
+                                     2024/07/25 12:45:52
+----------------------------------------------------------
